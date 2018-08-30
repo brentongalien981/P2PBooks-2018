@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>711191924243-s7209mfbrjhld7gjdgd76i8cinf7gmf5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.711191924243-s7209mfbrjhld7gjdgd76i8cinf7gmf5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpPwU4nm375Ut1qxsYGBeJCpiErN9p7l8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>711191924243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ops.cenbooks.Library-home</string>
+	<key>PROJECT_ID</key>
+	<string>cenbooks-library-home</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cenbooks-library-home.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:711191924243:ios:b941739e7ce384e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://cenbooks-library-home.firebaseio.com</string>
+</dict>
+</plist>
